@@ -13,3 +13,5 @@ To run:
 3. In first terminal run: python api.py
 4. In second terminal run: npm install
 5. When installation is complete in second terminal run: npm start
+
+Additional material can be found in the PDF titled 'DeToSa Boutique'
